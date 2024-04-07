@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @RamiAtallah1
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning all about front-end
 - 📫 How to reach me ramiatallah63@gmail.com
 
 <!---
